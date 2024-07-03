@@ -1341,10 +1341,10 @@ browserstack@~1.5.1:
   dependencies:
     https-proxy-agent "^2.2.1"
 
-browserstacktunnel-wrapper@2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/browserstacktunnel-wrapper/-/browserstacktunnel-wrapper-2.0.4.tgz#0ebffd3d6311b8526c30d8b430fdc651a535eebb"
-  integrity sha512-GCV599FUUxNOCFl3WgPnfc5dcqq9XTmMXoxWpqkvmk0R9TOIoqmjENNU6LY6DtgIL6WfBVbg/jmWtnM5K6UYSg==
+browserstacktunnel-wrapper@2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/browserstacktunnel-wrapper/-/browserstacktunnel-wrapper-2.0.5.tgz#c1356e1a4e5d07901eb6c9e9c995f6a04e4c46f8"
+  integrity sha512-oociT3nl+FhQnyJbAb1RM4oQ5pN7aKeXEURkTkiEVm/Rji2r0agl3Wbw5V23VFn9lCU5/fGyDejRZPtGYsEcFw==
   dependencies:
     https-proxy-agent "^2.2.1"
     unzipper "^0.9.3"
