@@ -4632,10 +4632,10 @@ google-auth-library@^6.1.1, google-auth-library@^6.1.2, google-auth-library@^6.1
     jws "^4.0.0"
     lru-cache "^6.0.0"
 
-google-code-prettify@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/google-code-prettify/-/google-code-prettify-1.0.1.tgz#72ed730414769db2ecc470f4ec413174ccb76327"
-  integrity sha1-cu1zBBR2nbLsxHD07EExdMy3Yyc=
+google-code-prettify@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/google-code-prettify/-/google-code-prettify-1.0.5.tgz#9f477f224dbfa62372e5ef803a7e157410400084"
+  integrity sha512-Y47Bw63zJKCuqTuhTZC1ct4e/0ADuMssxXhnrP8QHq71tE2aYBKG6wQwXr8zya0zIUd0mKN3XTlI5AME4qm6NQ==
 
 google-gax@^2.9.2:
   version "2.10.2"
