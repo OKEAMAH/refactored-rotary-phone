@@ -6015,9 +6015,7 @@ jasmine-growl-reporter@~0.2.0:
     growl "~1.7.0"
 
 jasmine-node@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/jasmine-node/-/jasmine-node-2.0.0.tgz#81751a72325f5497490b14181a55087f1b0371ff"
-  integrity sha1-gXUacjJfVJdJCxQYGlUIfxsDcf8=
+  version "2.0.1"
   dependencies:
     coffee-script "~1.7.1"
     gaze "~0.5.1"
